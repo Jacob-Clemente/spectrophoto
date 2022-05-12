@@ -1,0 +1,5 @@
+project: jacob-clemente/spectrophoto
+target: spectrophoto
+
+cmds:
+  - cmd: /spectrophoto @@ out.pcm 10
